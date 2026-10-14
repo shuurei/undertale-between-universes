@@ -1,0 +1,92 @@
+{
+	"title": "Underfell",
+	"description": "Un univers hostile aux teintes rouges, où les ténèbres, les tremblements de terre et les mystères mettent votre courage à l'épreuve.",
+	"sections": [
+		{
+			"title": "Ruines",
+			"content": [
+				"Après avoir traversé le portail dimensionnel et choisi de vous rendre à Underfell, vous êtes transporté dans l'Underground de cet univers, plus précisément dans les Ruines.",
+				"Otime en profite pour vous confier qu'il n'apprécie vraiment pas les habitants de ce monde, mais qu'on finit par s'y habituer.",
+				"Dès votre arrivée, vous rencontrez UF!Frisk, accompagnée de Flowey. Ils vous expliquent que ce monde est actuellement interdit aux moins de 13 ans en raison de son langage particulièrement familier. Certaines situations obligent également à en restreindre temporairement l'accès, le temps que tout rentre dans l'ordre.",
+				"Vous leur expliquez que vous êtes ici pour aider et mettre un terme aux ténèbres, en rappelant vos précédents exploits dans Undertale. Convaincue, Frisk vous autorise à poursuivre votre route, tout en vous recommandant de rester prudent. Elle vous donne rendez-vous chez Toriel, dans les Ruines, où elle vous attendra avec Asgore afin d'évaluer votre force et de déterminer si vous êtes capable de poursuivre votre aventure.",
+				"En explorant les Ruines, vous remarquez que leur structure reste relativement familière. Pourtant, l'atmosphère est bien différente : les lieux sont plongés dans une pénombre inquiétante, les murs sont couverts de graffitis obscènes, d'insultes, de têtes de mort et de dessins parfois particulièrement glauques. Certains monstres se montrent également très vulgaires, même si quelques propos restent censurés.",
+				"Au cours de votre exploration, vous pourrez aussi découvrir plusieurs easter eggs dissimulés dans les graffitis.",
+				"Quant à Otime, vous le retrouverez probablement étalé au sol après avoir dévoré un pot de bonbons au miel. Rien d'alarmant : il fait simplement une petite sieste."
+			]
+		},
+		{
+			"title": "Snowdin",
+			"content": [
+				"Après avoir traversé les Ruines sans rencontrer de difficulté majeure, vous atteignez Snowdin. Votre première surprise est de constater qu'il n'y a absolument aucune neige. À la place, le ciel arbore une inquiétante teinte rougeâtre.",
+				"Ce spectacle impressionne particulièrement Otime, qui décrit le ciel comme étant tout simplement « apocalyptique ».",
+				"En vous aventurant dans la forêt de Snowdin, vous tombez sur Papyrus et Sans, en pleine dispute à propos d'une barre de chocolat. Une scène plutôt banale, jusqu'à ce qu'ils vous expliquent leur problème : ils sont actuellement coincés dans la région.",
+				"L'entrée de Waterfall est bloquée par un immense amas de rochers, conséquence d'un tremblement de terre. Et ce n'est pas un événement isolé : les secousses se produisent de plus en plus fréquemment, menaçant de couper davantage de passages.",
+				"En poursuivant votre exploration, vous découvrez qu'un mystérieux individu est responsable de ces catastrophes. Capable de contrôler le sol, ce personnage provoque des tremblements de terre dans le seul but de faire des farces et d'observer les réactions des habitants.",
+				"Il est temps de mettre fin à ses plaisanteries. Après un affrontement, vous parvenez à l'arrêter et à rétablir le calme dans la région.",
+				"Papyrus vous apprend alors que les gardes royaux de Snowdin ont profité de votre intervention pour dégager le passage vers Waterfall. Vous décidez de vous y rendre sans attendre."
+			]
+		},
+		{
+			"title": "Waterfall",
+			"content": [
+				"Dès votre arrivée à Waterfall, vous constatez que quelque chose ne tourne pas rond. La région est plongée dans une obscurité presque totale. Seules quelques lampes, dispersées çà et là, permettent encore de distinguer le chemin.",
+				"Si vous cherchez Otime, rassurez-vous : il n'est pas mort. Il dort, tout simplement.",
+				"Après avoir progressé dans cette immense grotte souterraine, vous rencontrez Undyne et Alphys, complètement désorientées par le manque de luminosité.",
+				"Elles vous expliquent que Waterfall est normalement éclairée par des étoiles rouges artificielles. Pourtant, celles-ci ont soudainement cessé de fonctionner, plongeant toute la région dans le noir.",
+				"Alphys finit par vous reconnaître. En découvrant que vous êtes la personne responsable des exploits dont elle a entendu parler, elle se montre particulièrement impressionnée.",
+				"En poursuivant votre exploration, vous finissez par découvrir un couloir menant à une salle qui ressemble étrangement à un centre de contrôle. C'est là que vous rencontrez le responsable de cette panne : une étrange créature ressemblant à une chauve-souris portant des lunettes.",
+				"Pour une raison qui lui appartient, cette créature s'est amusée à plonger Waterfall dans les ténèbres afin d'observer les réactions des habitants perdus dans l'obscurité la plus complète.",
+				"Après un affrontement, vous parvenez à la vaincre et à réactiver les systèmes d'éclairage. Waterfall retrouve progressivement sa luminosité habituelle.",
+				"Vous pouvez désormais vous diriger vers Calciterre."
+			]
+		},
+		{
+			"title": "Calciterre",
+			"content": [
+				"En entrant dans Calciterre, vous êtes immédiatement frappé par une chaleur étouffante. Le filtre rouge qui caractérise cet univers est toujours présent, donnant à la région une atmosphère encore plus inquiétante.",
+				"Undyne et Alphys, qui vous ont suivi depuis Waterfall, constatent elles aussi l'anomalie.",
+				"Alphys vous conduit à son laboratoire afin d'étudier la situation. Après plusieurs analyses, elle découvre un point d'énergie extrêmement chaud situé au cœur même de Calciterre.",
+				"En consultant ses caméras de surveillance, elle remarque que plusieurs secteurs de la région sont en proie aux flammes. Plus inquiétant encore, toutes les caméras situées à proximité du centre ont cessé de répondre, probablement détruites par la chaleur.",
+				"Vous décidez de vous rendre sur place pour découvrir l'origine du problème.",
+				"Au milieu du passage, vous apercevez une silhouette étrange, semblable à un diable ou à un cerbère. Une chaleur intense émane de son corps et tout ce qui l'entoure semble brûler.",
+				"Lorsque vous interagissez avec cette créature, elle finit par vous remarquer. Le combat devient alors inévitable.",
+				"Après l'avoir vaincue, la source de chaleur disparaît progressivement. Calciterre commence à refroidir et retrouve finalement sa température habituelle."
+			]
+		},
+		{
+			"title": "New Home",
+			"content": [
+				"Le chemin habituel étant inaccessible, le Core étant fermé au public, vous êtes contraint d'emprunter un itinéraire alternatif pour rejoindre New Home.",
+				"Après un long détour, vous atteignez enfin la Barrière. Mais votre aventure est loin d'être terminée.",
+				"Chara d'Underfell vous y attend déjà. Son intention est claire : mettre un terme à ce monde et empêcher quiconque de poursuivre son chemin.",
+				"Vous décidez de l'affronter pour l'arrêter. Une fois le combat terminé, vous pouvez enfin poursuivre votre route vers la Surface."
+			]
+		},
+		{
+			"title": "Surface",
+			"content": [
+				"Contrairement à ce que vous pouviez imaginer, vous n'avez pas besoin de gravir toute la montagne pour atteindre la Surface. Un village s'est développé non loin de la Barrière, et un peu plus bas se trouve une ville moderne, animée et couverte de graffitis.",
+				"Les rues sont remplies d'artistes, de groupes aux activités douteuses et de personnages hauts en couleur. L'ambiance est radicalement différente de celle des Ruines.",
+				"Au détour d'une rue, vous apercevez Otime qui passe en moto, lunettes noires sur le nez, en train de dabber comme si de rien n'était.",
+				"La ville regorge également de possibilités. Certains trafiquants vous proposent des échanges illégaux, notamment des batteries de téléphone, avec une transaction possible une fois par jour.",
+				"Vous pourrez aussi rencontrer un groupe susceptible de vous fournir un véhicule : une moto ou une voiture, selon ce qui sera retenu pour le projet. Ce véhicule pourra utiliser un skin inspiré de Raph et bénéficier d'un boost de vitesse.",
+				"Enfin, un groupe de cinq artistes graffeurs vous mettra au défi. Vous devrez retrouver chacun de ses membres dans la ville et les affronter avant de pouvoir accéder à votre propre système de création de graffitis.",
+				"Une fois ce défi terminé, vous pourrez réaliser vos propres pixel arts sur les murs de la ville. Plusieurs surfaces de tailles différentes seront disponibles : 64 × 64, 100 × 500, 500 × 100, 1 000 × 500, 666 × 666 et bien d'autres formats.",
+				"Vos créations seront directement affichées sur les murs correspondants, vous permettant de laisser votre marque dans cet univers."
+			]
+		},
+		{
+			"title": "Les lieux de la ville",
+			"content": [
+				"La ville regorge d'endroits à explorer, chacun pouvant accueillir ses propres événements, personnages ou activités.",
+				"\n- Bar : un lieu de rencontre pour discuter et découvrir de nouveaux personnages.",
+				"\n- Casino : un établissement dédié aux jeux et aux activités de hasard fictives.",
+				"\n- Garages délabrés : des lieux abandonnés où pourraient se cacher des objets ou des personnages intéressants.",
+				"\n- Maison de Sardoche : une référence humoristique à découvrir au détour des rues.",
+				"\n- Salle d'arcade : un espace proposant différents mini-jeux.",
+				"\n- Forêt abandonnée : un lieu mystérieux, à l'écart de l'agitation urbaine.",
+				"\n- Maison abandonnée en bordure de forêt : un endroit isolé qui pourrait dissimuler quelques secrets."
+			]
+		}
+	]
+}

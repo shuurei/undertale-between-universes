@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "8bitOperatorPlus";
+    src: url("/8bitOperatorPlus-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@theme {
+    --breakpoint-xs: 24rem;
+    --color-accent: var(--color-accent);
+    --font-8bit: "8bitOperatorPlus", sans-serif;
+    --animate-heart-flash: heart-flash .15s ease-out;
+
+
+    @keyframes heart-flash {
+        0% {
+            color: var(--accent);
+            filter: brightness(1);
+        }
+
+        35% {
+            color: white;
+            filter: brightness(2) drop-shadow(0 0 4px white);
+        }
+
+        100% {
+            color: var(--accent);
+            filter: brightness(1);
+        }
+    }
+}
+
+@layer base {
+    :root {
+        --color-accent: #EF4444;
+    }
+
+    body {
+        @apply font-8bit min-h-svh w-full flex bg-black text-white;
+    }
+
+    #root {
+        @apply w-full flex flex-col;
+    }
+}

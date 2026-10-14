@@ -1,0 +1,201 @@
+{
+    "title": "Undertale",
+    "description": "Votre aventure commence dans un laboratoire mystérieux, où plusieurs versions d'Alphys vous ont donné vie. Mais lorsque d'étranges événements bouleversent l'Underground, vous devrez explorer ses régions, aider ses habitants et découvrir ce qui se cache derrière les changements qui affectent les monstres.",
+    "sections": [
+        {
+            "title": "Le réveil au laboratoire",
+            "content": [
+                "Votre histoire commence dans un laboratoire inconnu.",
+                "Vous venez tout juste de vous réveiller, après avoir été créé par plusieurs versions alternatives d'Alphys.",
+                "Ces scientifiques vont vous soumettre à une série de cinq petits tests afin d'évaluer vos capacités.",
+                "Chaque épreuve se présente sous la forme d'une énigme ou d'un puzzle.",
+                "À la fin, un résultat vous sera attribué en fonction de vos performances.",
+                "Et si vous obtenez un score de zéro, attendez-vous à quelques commentaires amusants sur votre intelligence !",
+                "Une fois les tests terminés, vous pourrez rejoindre votre chambre, située elle aussi dans le laboratoire, et vous reposer.",
+                "Cependant, votre sommeil ne se déroulera pas comme prévu.",
+                "À votre réveil, le laboratoire semble avoir été abandonné.",
+                "Un violent séisme a secoué les lieux, laissant des fissures sur les murs et des dégâts un peu partout.",
+                "Personne ne semble être présent pour vous expliquer ce qui vient de se produire.",
+                "En explorant les couloirs, vous finirez par tomber accidentellement dans un immense trou provoqué par le tremblement de terre.",
+                "Lorsque vous reprenez connaissance, vous découvrez que vous avez atterri dans l'Underground, au cœur de la deuxième partie des Ruines.",
+                "Vous n'êtes pas arrivé à l'entrée habituelle empruntée par Frisk, mais dans une zone bien plus profonde.",
+                "Après avoir résolu quelques énigmes relativement simples, vous finirez par rejoindre le chemin qu'avait autrefois emprunté Frisk.",
+                "C'est alors que vous rencontrerez Flowey.",
+                "Intrigué par votre présence, il vous fera remarquer qu'il est intéressant de vous voir ici, avant de s'éloigner sans donner davantage d'explications.",
+                "Peu après, Toriel arrivera, attirée par les mouvements inhabituels des monstres.",
+                "Elle fera votre connaissance et décidera de vous guider à travers les Ruines.",
+                "Au fil de votre progression, elle vous expliquera que quelque chose ne tourne pas rond dans l'Underground.",
+                "Certains monstres deviennent soudainement brutaux, comme s'ils étaient possédés ou privés de leur propre volonté.",
+                "D'autres phénomènes mystérieux semblent également se produire dans les profondeurs.",
+                "Toriel ne possède pas toutes les réponses, mais elle espère que vous pourrez l'aider à comprendre ce qui arrive à son monde.",
+                "À la fin des Ruines, vous souhaiterez poursuivre votre route avec elle.",
+                "Malheureusement, vos chemins doivent se séparer.",
+                "Avant de vous laisser continuer, Toriel vous demandera de l'affronter afin de vérifier si vous êtes réellement capable de survivre aux dangers qui vous attendent.",
+                "Après ce combat, si vous parvenez à la vaincre, elle reconnaîtra vos capacités et vous autorisera à poursuivre votre aventure dans l'Underground."
+            ]
+        },
+        {
+            "title": "La forêt de Snowdin",
+            "content": [
+                "Après avoir quitté les Ruines, vous découvrirez la forêt de Snowdin. Cette région enneigée semble relativement paisible au premier abord, mais les événements récents ont déjà commencé à perturber la tranquillité de ses habitants.",
+                "C'est ici que vous rencontrerez Papyrus, rapidement suivi par son frère Sans, qui aura décidé de l'accompagner.",
+                "Papyrus souhaite aider les monstres à retrouver leurs esprits et à comprendre pourquoi certains d'entre eux deviennent agressifs sans raison apparente. En découvrant vos capacités et ce que vous avez déjà accompli dans les Ruines, il pourrait bien voir en vous un allié précieux.",
+                "En poursuivant votre route, vous découvrirez cependant que le pont menant directement à Snowdin est détruit. Impossible de l'emprunter pour rejoindre la ville.",
+                "Heureusement, un autre passage existe. Un escalier vous permettra de descendre jusqu'au lac de Snowdin, une zone plus isolée où vous devrez trouver un moyen de continuer votre progression.",
+                "Le lac est surveillé par une créature mystérieuse, inspirée des légendes du monstre du Loch Ness. Celle-ci bloque le passage à l'aide de sa longue queue et refuse catégoriquement de vous laisser traverser.",
+                "Vous devrez donc l'affronter pour pouvoir continuer votre chemin. Une fois le combat terminé, que vous choisissiez de l'épargner ou de la vaincre, vous pourrez reprendre votre route vers Snowdin.",
+                "Lorsque vous arriverez enfin en ville, Papyrus vous félicitera d'avoir réussi à surmonter les obstacles qui vous séparaient de cette destination.",
+                "Mais il ne vous laissera pas repartir aussi facilement ! Désireux de tester vos compétences, il vous demandera de lui montrer vos tactiques de combat.",
+                "Vous devrez alors affronter Papyrus dans un combat qui permettra de mettre vos capacités à l'épreuve et de poursuivre votre progression dans l'histoire."
+            ]
+        },
+        {
+            "title": "Waterfall",
+            "content": [
+                "En arrivant à Waterfall, vous découvrirez une région profondément marquée par les événements récents. Les dégâts ne seront pas forcément visibles dès vos premiers pas, mais vous finirez rapidement par comprendre que quelque chose de grave s'est produit.",
+                "Vous atteindrez une ville presque entièrement submergée par les eaux. Les rues sont inondées et plusieurs bâtiments se retrouvent partiellement engloutis.",
+                "Undyne se trouve dans la région. En découvrant l'état de Waterfall, elle sera profondément bouleversée. Elle vous expliquera qu'aucune victime n'a été recensée, mais que voir un endroit aussi important pour elle dans cet état lui fait énormément de peine.",
+                "Vous poursuivrez votre exploration avant de retrouver Undyne un peu plus loin. Ayant entendu parler de vos exploits grâce à Papyrus, elle décidera de faire appel à vous.",
+                "Elle vous révélera que le château des gardes royaux est tombé sous l'emprise d'un mystérieux chevalier noir. Cette créature, semblable à un chien obscur vêtu d'une armure, a pris le contrôle des lieux et empêche les gardes de remplir leur mission.",
+                "Votre objectif sera de rejoindre le village voisin en traversant la mine de Waterfall. Cette zone servira de passage vers une nouvelle partie de la région, où vous découvrirez plusieurs habitations, un petit hôtel, une boutique d'objets et d'accessoires ainsi que le château des gardes royaux.",
+                "Avant de pouvoir entrer dans le château, vous devrez résoudre une énigme inspirée du Moyen Âge. Elle pourra porter sur les chevaliers, leurs équipements, leurs montures ou encore leurs traditions.",
+                "Une fois la bonne réponse trouvée, les portes du château s'ouvriront et vous pourrez commencer votre exploration.",
+                "Au sommet de cette imposante construction, vous devrez affronter quatre sbires du chevalier noir avant de pouvoir vous mesurer à leur chef.",
+                "Le combat contre le chevalier constituera l'épreuve finale de cette région. Vous pourrez choisir de l'épargner ou de le vaincre. Dans les deux cas, son emprise sur le château prendra fin et les gardes royaux pourront reprendre possession des lieux.",
+                "Waterfall retrouvera alors une partie de sa tranquillité, vous permettant de poursuivre votre voyage dans l'Underground.",
+                "Mais avant de quitter la région, prenez le temps d'explorer les alentours. Un Gaster Follower est dissimulé dans Waterfall et certains gardes royaux, dont Doggo, pourront être rencontrés et affrontés au château."
+            ]
+        },
+        {
+            "title": "Calciterre",
+            "content": [
+                "En arrivant à Calciterre, vous croiserez Alphys avant même d'entrer dans son laboratoire.",
+                "Elle vous reconnaîtra immédiatement, tout comme vous la reconnaîtrez. Après tout, elle fait partie des scientifiques qui vous ont créé, aux côtés de plusieurs de ses versions alternatives.",
+                "Heureuse de vous retrouver, elle vous accueillera dans son laboratoire et vous donnera enfin un téléphone. Cet objet vous permettra de rester en contact avec certains personnages et vous accompagnera dans la suite de votre aventure.",
+                "Alphys profitera également de cette rencontre pour vous expliquer les différentes mécaniques liées aux attaques colorées. Vous apprendrez notamment comment fonctionnent les attaques rouges, orange, bleues, violettes et vertes, ainsi que les règles particulières qui leur sont associées.",
+                "Mais les retrouvailles seront de courte durée. Alphys vous expliquera que le Core, une installation essentielle au fonctionnement de l'Underground, est actuellement inaccessible en raison d'une importante coulée de lave.",
+                "Elle soupçonne que quelque chose d'anormal se produit au niveau du volcan de Calciterre. Cependant, elle est trop occupée à travailler sur le nouveau corps de Mettaton pour aller vérifier la situation elle-même.",
+                "Elle vous confiera donc une mission : vous rendre au volcan, comprendre ce qui s'y passe et lui faire un rapport détaillé de vos découvertes.",
+                "Vous devrez traverser une grande partie de Calciterre avant de trouver le chemin qui mène au volcan. Une fois arrivé à son pied, votre ascension commencera.",
+                "Le parcours vous fera passer par des sentiers escarpés, des zones à flanc de montagne et des passages souterrains creusés à l'intérieur même du volcan. Vous découvrirez ainsi une région à la fois extérieure et intérieure, où la chaleur et la lave rendent chaque étape plus périlleuse.",
+                "En chemin, vous atteindrez un petit village installé dans cette zone volcanique. Vous pourrez y rencontrer des habitants, découvrir les environs et profiter d'une source thermale pour vous reposer avant de reprendre votre ascension.",
+                "Au sommet, vous découvrirez enfin la cause du problème : un monstre capable de résister à la lave est devenu incontrôlable. Alors que le volcan est pourtant éteint, il tente par tous les moyens de le réactiver, provoquant une situation de plus en plus dangereuse.",
+                "Vous devrez l'affronter pour mettre fin à ses agissements.",
+                "Si vous choisissez de le vaincre, la lave qui bloque le passage se dissipera, vous permettant de poursuivre votre aventure. Si vous décidez de l'épargner, il reprendra ses esprits et se chargera lui-même de régler le problème du volcan.",
+                "Avant de quitter la zone, pensez à explorer les alentours : un coffre est dissimulé en contrebas du volcan, tandis qu'un morceau de clé peut être récupéré dans le laboratoire d'Alphys.",
+                "Une fois votre mission terminée, vous pourrez reprendre votre route vers le Core."
+            ]
+        },
+        {
+            "title": "Le village araignée",
+            "content": [
+                "Après une longue ascension à travers Calciterre, vous découvrirez le village araignée, une nouvelle zone habitée par différentes araignées et des personnages originaux qui pourront être créés pour enrichir l'univers.",
+                "Ce village constituera une halte intéressante avant votre arrivée au Core. Vous pourrez y rencontrer plusieurs habitants, découvrir leurs histoires et explorer les environs.",
+                "Une boutique spécialisée dans les accessoires sera également disponible. Vous pourrez y acheter différents objets afin de personnaliser votre équipement et préparer la suite de votre voyage.",
+                "Le village araignée permettra ainsi de faire une pause après les épreuves du volcan, tout en introduisant de nouveaux personnages et de nouvelles possibilités d'exploration."
+            ]
+        },
+        {
+            "title": "Le Core et le chemin vers New Home",
+            "content": [
+                "Après avoir traversé Calciterre et le village araignée, vous atteindrez enfin le Core.",
+                "Cette installation majeure de l'Underground constitue une étape importante de votre voyage. Vous pourrez continuer votre exploration avant de reprendre le chemin menant vers New Home, la grande ville située à proximité du château d'Asgore.",
+                "Sur votre route, vous croiserez justement Asgore. En vous observant, il remarquera quelque chose de familier dans votre regard, sans toutefois parvenir à identifier immédiatement ce qui lui rappelle cette impression.",
+                "Il vous remerciera ensuite pour l'aide que vous avez apportée aux habitants de l'Underground. Votre intervention dans les différentes régions n'est pas passée inaperçue, et Asgore reconnaîtra les efforts que vous avez fournis pour aider les monstres.",
+                "Pour vous remercier, il vous proposera de prendre une tasse de thé chez un ami à lui, qui est également l'oncle de Noëlle.",
+                "Cette rencontre vous permettra de découvrir un autre aspect de la vie des habitants de l'Underground avant de poursuivre votre route vers New Home.",
+                "Une fois cette visite terminée, vous pourrez rejoindre la grande ville et commencer à explorer les possibilités qui s'offrent à vous au-delà de l'aventure principale."
+            ]
+        },
+        {
+            "title": "New Home",
+            "content": [
+                "En quittant la maison de l'oncle de Noëlle, vous découvrirez que vous êtes arrivé à New Home, une grande ville où la vie quotidienne des monstres se poursuit malgré les événements étranges qui bouleversent l'Underground.",
+                "Contrairement aux régions précédentes, New Home vous offrira de nombreuses activités et davantage de liberté. Vous pourrez explorer les rues, rencontrer des personnages originaux et découvrir des lieux conçus pour rendre le monde plus vivant.",
+                "L'une des possibilités les plus importantes sera l'achat de votre propre maison. Vous pourrez acquérir un logement et le décorer selon vos envies, afin de disposer d'un endroit personnel où revenir entre deux aventures.",
+                "La ville accueillera également des monstres originaux ainsi que des personnages issus d'autres univers alternatifs, dont Hollowed et bien d'autres encore.",
+                "Plusieurs lieux publics seront accessibles, notamment une mairie, une cathédrale, des restaurants et différents commerces. Ces endroits permettront de rencontrer de nouveaux personnages, d'obtenir des services et de découvrir des histoires secondaires.",
+                "New Home ne sera donc pas seulement un passage vers la suite du scénario : la ville constituera un véritable espace de vie dans lequel vous pourrez prendre le temps d'explorer, de collectionner des objets et de développer votre propre histoire.",
+                "Mais une dernière étape importante vous attend encore dans l'Underground : la barrière qui sépare les monstres de la surface."
+            ]
+        },
+        {
+            "title": "Le combat à la barrière",
+            "content": [
+                "En vous rendant à la barrière qui sépare l'Underground de la surface, vous découvrirez une scène inattendue. Asriel et Chara sont en plein affrontement.",
+                "Asriel vous remarquera et prendra le temps de vous expliquer la situation. Chara est revenu d'entre les morts, apparu de nulle part à la suite des événements qui ont récemment bouleversé l'Underground.",
+                "Ces événements lui ont permis de se libérer, mais ses véritables intentions restent difficiles à comprendre. Pour Asriel, la situation est suffisamment préoccupante pour nécessiter votre aide.",
+                "Vous devrez donc affronter Chara aux côtés d'Asriel. Ce combat constituera un moment important de votre aventure, autant sur le plan de l'action que sur celui de l'histoire.",
+                "Durant la deuxième phase du combat, une mécanique inspirée du bouton SAVE vous permettra de découvrir des fragments du passé de Chara. Vous comprendrez progressivement son histoire, les événements qui l'ont conduit jusqu'ici et les raisons qui l'ont poussé à agir de cette manière.",
+                "Au fil de ces révélations, vous découvrirez que ses actes sont liés à une volonté de vous protéger, même si ses méthodes l'ont conduit à vous affronter.",
+                "Finalement, Chara abandonnera le combat. Avant de disparaître, il vous expliquera qu'il a fait tout cela pour vous protéger.",
+                "Vous ne pourrez pas résoudre tous les mystères le concernant à cet instant. Chara réapparaîtra bien plus tard dans votre aventure, et cette première confrontation ne sera que le début d'une histoire plus complexe.",
+                "Après son départ, Asriel vous remerciera pour votre aide. Vous pourrez alors franchir la barrière et commencer votre exploration de la surface."
+            ]
+        },
+        {
+            "title": "La descente de la montagne",
+            "content": [
+                "Après avoir quitté l'Underground, vous entamerez la descente de la montagne.",
+                "Votre chemin vous conduira à travers une forêt avant de déboucher sur un village inspiré de celui de Deltarune. Ce lieu constituera votre premier point de repère à la surface et marquera une nouvelle étape dans votre aventure.",
+                "Le village sera plus calme que les régions que vous avez traversées dans l'Underground. Vous pourrez y découvrir des maisons, des commerces et différents lieux familiers aux joueurs de Deltarune.",
+                "Mais ne vous fiez pas à cette apparente tranquillité : la surface abrite elle aussi de nombreux personnages et des événements que vous pourrez découvrir en prenant le temps d'explorer.",
+                "L'école du village renferme notamment un passage vers un autre monde, bien différent de celui que vous venez de quitter."
+            ]
+        },
+        {
+            "title": "Le Dark World",
+            "content": [
+                "Si vous décidez d'explorer l'école du village, vous pourrez découvrir un passage menant au Dark World.",
+                "Contrairement aux autres régions de votre aventure, ce monde ne sera pas soumis à l'emprise des ténèbres qui affecte certains endroits du Multivers. Il constituera une destination particulière, où vous pourrez rencontrer des personnages qui ont déjà entendu parler de vos exploits dans l'Underground.",
+                "Certains monstres seront impatients de vous affronter afin de tester votre réputation, tandis que d'autres souhaiteront simplement faire votre connaissance.",
+                "Vous pourrez notamment rencontrer Lancer, Rouxls Kaard et d'autres personnages emblématiques de Deltarune. Ces rencontres permettront d'ajouter des moments plus légers à votre aventure et d'explorer les relations entre les habitants de différents univers.",
+                "Cependant, le Dark World réservera aussi son lot de surprises. Vous pourrez notamment croiser le chemin de K. Roulx et découvrir la prison du château.",
+                "Si vous choisissez de libérer Jevil ou le Chaos King, vous devrez ensuite les affronter. Ces combats facultatifs constitueront des défis supplémentaires pour les joueurs qui souhaitent explorer toutes les possibilités de cette région.",
+                "Le Dark World sera ainsi une destination secondaire riche en rencontres, en combats et en découvertes, accessible aux joueurs curieux qui souhaitent aller au-delà du scénario principal."
+            ]
+        },
+        {
+            "title": "La ville moderne",
+            "content": [
+                "Au-delà du village inspiré de Deltarune, vous pourrez rejoindre une grande ville moderne qui constituera l'un des principaux espaces d'exploration de la surface.",
+                "Cette ville rassemblera une multitude de monstres, d'humains et de personnages provenant de différents univers alternatifs. Vous pourrez notamment y rencontrer des personnages et des boss issus d'univers comme Abyssale, ainsi que de nombreux autres personnages originaux.",
+                "La ville sera conçue comme un espace vivant dans lequel les joueurs pourront se promener librement, découvrir des commerces, visiter des bâtiments et rencontrer des personnages aux histoires variées.",
+                "Certains lieux seront liés à la progression de l'histoire, tandis que d'autres seront destinés à l'exploration, aux activités secondaires ou à la personnalisation de votre personnage.",
+                "Vous pourrez notamment y acheter des objets et des accessoires, découvrir de nouveaux services, visiter des bâtiments publics ou simplement prendre le temps de rencontrer les habitants.",
+                "Cette zone représentera une part importante du contenu secondaire du jeu, avec de nombreuses possibilités d'interaction et de nouveaux lieux à découvrir au fil de votre progression."
+            ]
+        },
+        {
+            "title": "Les lieux du village de surface",
+            "content": [
+                "Le premier village de la surface sera inspiré du village de Deltarune. Il servira de point de départ à votre exploration du monde extérieur et accueillera plusieurs lieux familiers.",
+                "Parmi les endroits que vous pourrez découvrir, vous trouverez notamment :",
+                "- Le village de Deltarune, avec ses habitations et ses habitants.\n- Le restaurant de Sans, où vous pourrez vous arrêter et rencontrer différents personnages.\n- L'école du village, qui dissimule l'accès au Dark World.",
+                "Ce village constituera une zone de transition entre l'Underground et la ville moderne, tout en proposant ses propres activités et rencontres."
+            ]
+        },
+        {
+            "title": "Les lieux de la ville moderne",
+            "content": [
+                "La ville moderne regroupera de nombreux bâtiments et habitations, afin d'offrir un espace d'exploration particulièrement riche.",
+                "Les lieux accessibles comprendront notamment :",
+                "- Une salle des fêtes, destinée à accueillir des événements et des rassemblements.\n- La mairie, où pourront se dérouler certaines activités liées à la vie de la ville.\n- Un hôtel, permettant aux personnages de passage de se reposer.\n- Un musée, dont le contenu pourra être développé pour présenter l'histoire du Multivers et de ses habitants.\n- Une boutique d'objets, proposant différents objets utiles à votre aventure.\n- Une boutique d'accessoires, permettant de découvrir et d'acheter de nouveaux équipements ou éléments de personnalisation.\n- Les locaux des studios UDV, où vous pourrez découvrir l'univers de cette structure.\n- La maison de Jakey.\n- Mettawood, une version de Hollywood consacrée à Mettaton et à l'industrie du divertissement.\n- La maison de Nick Nitro.\n- La maison de Merg.\n- La boulangerie de Muffet.\n- La maison d'Inkye.\n- La maison d'Underlust.\n- Le laboratoire dans lequel vous avez été créé.\n- La maison de Science Sans.\n- La maison de Maj et de ses frères.\n- La maison de Jotaro.",
+                "Vous pourrez également acquérir une deuxième maison, différente de votre premier logement. Cette possibilité sera utile si l'emplacement de votre première maison ne vous convient finalement pas ou si vous souhaitez simplement changer d'environnement.",
+                "L'ensemble de ces lieux permettra de donner vie à la ville et de mettre en valeur les différents personnages qui peuplent cet univers. Certains bâtiments pourront également accueillir des interactions, des activités ou des histoires secondaires à développer."
+            ]
+        },
+        {
+            "title": "Les mystères de l'Underground",
+            "content": [
+                "Tout au long de votre voyage, vous découvrirez que les événements qui touchent l'Underground ne sont pas de simples incidents isolés.",
+                "Depuis votre réveil dans le laboratoire jusqu'à votre arrivée à la surface, plusieurs indices laissent penser qu'une force inconnue perturbe le comportement des monstres et provoque des changements dans différentes régions.",
+                "Les monstres qui deviennent soudainement agressifs, les dégâts observés à Waterfall, les problèmes rencontrés à Calciterre et le retour inattendu de Chara sont autant d'événements qui semblent liés à un phénomène plus vaste.",
+                "Alphys, Toriel, Undyne et les autres personnages que vous rencontrerez pourront vous apporter des informations, mais toutes les réponses ne seront pas disponibles immédiatement.",
+                "Votre exploration vous permettra de rassembler progressivement des indices et de découvrir les liens entre les différents événements.",
+                "Certains secrets pourront être révélés au fil du scénario principal, tandis que d'autres nécessiteront d'explorer des lieux cachés, de rencontrer des personnages secondaires ou de relever des défis facultatifs.",
+                "L'Underground et la surface ne seront donc pas seulement des lieux à traverser : ils formeront un monde rempli de mystères, dont une partie ne pourra être comprise qu'en prenant le temps de découvrir tout ce qu'ils ont à offrir."
+            ]
+        }
+    ]
+}

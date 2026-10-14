@@ -1,0 +1,83 @@
+{
+    "title": "Underswap",
+    "description": "Explorez un Underground transformé, entre déserts, volcans, cités englouties et plages ensoleillées.",
+    "sections": [
+        {
+            "title": "Ruined Home",
+            "content": [
+                "Après avoir traversé le portail des dimensions et choisi de vous rendre à Underswap, celui-ci vous emmène dans l'Underground de cet univers.",
+                "Vous rencontrerez Asgore et la reine Toriel, qui vous signaleront que le portail va bientôt être fermé et que vous devrez partir. Vous leur proposerez votre aide en expliquant la situation et en racontant vos prouesses dans Undertale."
+            ]
+        },
+        {
+            "title": "Sanddin",
+            "content": [
+                "Vous parcourez Ruined Home avant de vous rendre à Sanddin. Vous découvrez alors un Snowdin désertique, composé de montagnes de sable et d'une ville aux allures de village du Sahara.",
+                "Sur le chemin, une tempête de sable vous bloque la route. Elle est provoquée par un monstre qui cherche à recouvrir une grande partie de l'Underground sous le sable. Vous devrez l'arrêter en le combattant.",
+                "Une fois à Sanddin, Sans et son frère viendront vous remercier d'avoir sauvé la ville. Sans, sous sa forme Blueberry, voudra ensuite vous affronter amicalement pour devenir aussi cool que vous !"
+            ]
+        },
+        {
+            "title": "Lavafall",
+            "content": [
+                "Après avoir traversé Sanddin, vous arriverez à Lavafall, une région souterraine semblable à un immense volcan, remplie de lave.",
+                "Vous y retrouverez notamment Otime, affalé au sol et accablé par la chaleur. Vous rencontrerez ensuite Alphys, qui a reçu un message de la reine annonçant votre arrivée. Elle vous escortera jusqu'au réacteur de Lavafall.",
+                "Elle vous expliquera que l'énergie thermique de cette région est convertie en énergie électrique pour alimenter l'Underground. Cependant, la machine fonctionne au ralenti depuis quelque temps.",
+                "L'intérieur du réacteur est un véritable labyrinthe. Alphys, qui n'a pas vraiment le sens de l'orientation, vous proposera de vous y aventurer pour réparer la machine. Elle vous donnera également le numéro d'Undyne, qui pourra vous guider à travers certains puzzles et vous aider à remettre le réacteur en état.",
+                "Le boss de cette zone sera une créature de lave qui se nourrit d'électricité. Vous pourrez également recroiser Otime, encore perdu et peu désireux de recevoir votre aide.",
+                "Après la réparation du réacteur, Alphys vous laissera poursuivre votre aventure. Elle vous rappellera que vous êtes toujours la bienvenue chez elle, notamment pour un petit combat !"
+            ]
+        },
+        {
+            "title": "Submerterre",
+            "content": [
+                "Après avoir parcouru le reste de Lavafall, vous découvrirez une région à l'opposé de cette dernière. De nombreux endroits sont inondés et vous pourrez même apercevoir une ancienne ville engloutie sous les eaux. Otime pourrait également y profiter d'un petit bain.",
+                "C'est ici que vous rencontrerez Undyne, la scientifique royale. Elle vous reconnaîtra puisqu'elle a participé à votre création avec les autres scientifiques des univers alternatifs, les AU Alphys. Elle sera heureuse de vous revoir.",
+                "Elle vous racontera que cette ville date de mille ans, mais qu'une immense inondation survenue il y a cinq cents ans a submergé une grande partie de la région.",
+                "Elle vous conduira ensuite à son laboratoire. Selon elle, le niveau de l'eau monte de plus en plus, sans raison apparente. Le passage reliant Submerterre au Core est désormais totalement inondé.",
+                "Pour poursuivre votre aventure, vous devrez vous rendre dans une grotte souterraine située au-delà du village, dont les maisons rappellent les canaux de Venise.",
+                "Dans cette grotte, vous affronterez un monstre semblable à une baleine terrestre, qui cherche à plonger tout l'Underground sous les flots. Ce combat s'inspire notamment de Kyogre, dans Pokémon.",
+                "Après votre victoire, Undyne vous expliquera qu'elle a créé un pont pendant votre combat afin de vous permettre de continuer votre aventure. Elle vous remerciera chaleureusement."
+            ]
+        },
+        {
+            "title": "Core",
+            "content": [
+                "Le Core reste fidèle à celui d'Undertale, mais son atmosphère est légèrement plus sombre. Les monstres que vous y rencontrerez auront adopté les rôles et les apparences propres à Underswap.",
+                "Vous croiserez également Otime à un endroit du Core. Il vous racontera que cette région lui rappelle de mauvais souvenirs."
+            ]
+        },
+        {
+            "title": "Ancien Home",
+            "content": [
+                "Ancien Home conserve une structure familière, mais adopte un thème bleu.",
+                "Deux combats importants vous attendent : Temmie au trône de Toriel, puis Frisk à la barrière."
+            ]
+        },
+        {
+            "title": "Surface",
+            "content": [
+                "Une fois à la surface, vous découvrirez une grande ville côtière, bordée par la mer et remplie d'hôtels, de commerces et de lieux de vacances.",
+                "Vous pourrez notamment y trouver un crêpier, des boutiques d'accessoires de plage pour décorer votre maison et Otime tranquillement installé sur un transat, une noix de coco à la main.",
+                "La baie se compose d'une plage et de plusieurs îles reliées entre elles. Vous pourrez y récolter des bananes et des noix de coco, découvrir un trésor chaque semaine et pêcher différents objets ou monstres aquatiques.",
+                "Certains monstres pourront être pêchés dans l'eau, tandis que d'autres apparaîtront directement sur le sable lorsque vous vous promènerez sur la plage."
+            ]
+        },
+        {
+            "title": "Ville côtière",
+            "content": [
+                "La ville côtière regorge de lieux à découvrir et de personnages à rencontrer.",
+                "Vous pourrez y explorer :",
+                "\n- Des maisons côtières.",
+                "\n- Des maisons habitées par des personnages d'Abysstale, d'Oceantale, d'Aquatale et d'autres univers alternatifs.",
+                "\n- La maison d'un YouTubeur de la communauté Undertale.",
+                "\n- La maison de Jakey et Nyx.",
+                "\n- La maison de Camilla.",
+                "\n- Des monstres portant des tenues estivales et des vêtements de vacances.",
+                "\n- Un campus d'été avec des terrains de football, de basket et d'autres activités sportives.",
+                "\n- Un restaurant de plage.",
+                "\n- Un port."
+            ]
+        }
+    ]
+}

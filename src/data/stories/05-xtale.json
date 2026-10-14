@@ -1,0 +1,102 @@
+{
+	"title": "Xtale",
+	"description": "Le dernier univers de votre aventure. Derrière une vaste plaine et un village paisible se cachent les responsables des ténèbres qui menacent le Multivers.",
+	"sections": [
+		{
+			"title": "La grande plaine",
+			"content": [
+				"Après avoir parcouru le Multivers et sauvé les différents univers alternatifs, vous débloquez enfin l'accès à Xtale.",
+				"Contrairement aux autres AUs que vous avez explorés, cet univers ne comporte qu'un seul village et une immense plaine.",
+				"Pourtant, ne vous fiez pas à son apparente simplicité : cette dernière regorge de secrets, d'objets à récupérer et d'activités à découvrir.",
+				"Dès que vous franchissez le portail dimensionnel, vous vous retrouvez au milieu d'une vaste étendue verdoyante.",
+				"Vous pouvez librement explorer les environs, récolter différents objets et découvrir une activité inédite : la chasse aux insectes.",
+				"Papillons, insectes rares et autres petites créatures pourront être capturés au fil de vos explorations.",
+				"Chacun possède ses propres utilisations : certains pourront servir à cuisiner différents plats, d'autres à décorer votre maison, tandis que les plus intéressants pourront être revendus au magasin d'insectes du village.",
+				"La collection fonctionne un peu comme un album de collection.",
+				"Votre objectif sera de capturer toutes les espèces disponibles afin de compléter votre collection.",
+				"Une fois celle-ci terminée, vous débloquerez un léger bonus de Gold à chaque combat.",
+				"Une récompense supplémentaire pour les collectionneurs les plus assidus !",
+				"Prenez donc le temps d'explorer la plaine avant de poursuivre votre route.",
+				"Vous pourriez y trouver des objets rares ou des insectes que vous ne rencontrerez nulle part ailleurs."
+			]
+		},
+		{
+			"title": "Le village d'Xtale",
+			"content": [
+				"Après avoir traversé la grande plaine, vous arrivez enfin au village d'Xtale.",
+				"C'est ici que vous rencontrez X!Chara et X!Frisk.",
+				"À votre grande surprise, ils semblent déjà connaître votre identité, mais également les raisons de votre présence dans cet univers.",
+				"Ils vous expliquent que les ténèbres qui se propagent à travers le Multivers ne sont pas le fruit du hasard.",
+				"Si vous souhaitez découvrir qui se cache derrière ces événements, vous devrez d'abord affronter les gardes royaux dispersés dans différents endroits du village.",
+				"Chaque garde représente une épreuve à surmonter avant de pouvoir atteindre la vérité.",
+				"Vous devrez les retrouver, les affronter et prouver que vous êtes capable de poursuivre votre aventure jusqu'à son terme.",
+				"Une fois tous les gardes royaux vaincus, vous pourrez vous rendre au nord du village.",
+				"X!Chara et X!Frisk vous y attendent devant un portail donnant accès à la montagne.",
+				"Mais ils ne comptent pas vous laisser passer aussi facilement.",
+				"Pour découvrir ce qui se cache derrière ce portail, vous devrez d'abord les affronter tous les deux.",
+				"Préparez-vous : votre dernière grande épreuve approche."
+			]
+		},
+		{
+			"title": "La montagne",
+			"content": [
+				"Après avoir vaincu X!Chara et X!Frisk, vous franchissez enfin le portail et pénétrez dans la montagne.",
+				"À l'intérieur, vous découvrez Ink et X!Gaster en pleine discussion.",
+				"En vous voyant arriver, ils comprennent que leur petit jeu touche à sa fin.",
+				"Les deux personnages finissent par révéler leur implication dans les événements qui ont frappé le Multivers.",
+				"Les ténèbres, les anomalies et les épreuves rencontrées au cours de votre aventure sont liées à leurs agissements.",
+				"Leur objectif ?",
+				"Jouer avec la vie des habitants et manipuler les différents univers comme s'il s'agissait d'un simple divertissement.",
+				"Vous ne pouvez pas laisser de telles actions impunies.",
+				"Un dernier affrontement devient inévitable.",
+				"Cependant, Ink et X!Gaster ne comptent pas vous faciliter la tâche.",
+				"Au cours du combat, ils utilisent différentes ruses et mécanismes de triche pour vous déstabiliser.",
+				"Certains tours pourront notamment vous priver temporairement de l'utilisation de vos objets, tandis que d'autres surprises viendront bouleverser le déroulement du combat.",
+				"Vous devrez apprendre à vous adapter, anticiper leurs stratégies et utiliser intelligemment les ressources à votre disposition.",
+				"Après un affrontement difficile, vous parvenez finalement à les vaincre.",
+				"Face à leur défaite, Ink et X!Gaster décident de mettre un terme à leur jeu.",
+				"Les responsables ont été arrêtés.",
+				"Les univers alternatifs sont sauvés et les ténèbres ne menacent plus le Multivers.",
+				"Votre aventure principale prend fin ici.",
+				"Félicitations d'être arrivé jusqu'au bout !"
+			]
+		},
+		{
+			"title": "L'après-aventure",
+			"content": [
+				"La fin de l'histoire ne signifie pas pour autant que vous avez terminé votre aventure.",
+				"Même après avoir sauvé le Multivers, de nombreux défis vous attendent.",
+				"Vous pourrez notamment terminer les quêtes secondaires, récupérer les skins encore manquants et tenter de grimper au sommet des différents classements.",
+				"Deux objectifs majeurs vous attendent également : atteindre le LOVE 99 et obtenir une âme impure, ou terminer votre aventure avec une âme pure en suivant la route pacifiste.",
+				"Si vous terminez cette dernière route sans gagner de LV, vous pourrez obtenir la récompense correspondante.",
+				"Vous pourrez également affronter de nouveau les différents boss quand vous le souhaitez, notamment Papyrus, Frisk et les autres personnages rencontrés au cours de votre aventure.",
+				"Selon vos choix, ces personnages pourront être retrouvés à différents endroits de la carte après une route pacifiste.",
+				"Si vous les avez vaincus définitivement dans une autre route, vous pourrez éventuellement les retrouver sur votre Darkweb afin de les affronter de nouveau.",
+				"Mais deux défis supplémentaires vous attendent pour les joueurs les plus déterminés.",
+				"Le premier consiste à affronter Ink une nouvelle fois au niveau 99.",
+				"Ce combat vous permettra de mesurer votre progression et de mettre vos compétences à l'épreuve.",
+				"Le second vous demandera de retourner à l'endroit où vous avez affronté X!Gaster.",
+				"Cette fois, il ne retiendra plus son véritable potentiel.",
+				"Préparez-vous à un combat particulièrement difficile, qui pourrait bien représenter l'un des défis les plus exigeants de toute votre aventure."
+			]
+		},
+		{
+			"title": "Les lieux du village",
+			"content": [
+				"Malgré sa taille relativement modeste, le village d'Xtale propose de nombreuses activités et plusieurs lieux à découvrir.",
+				"\n- Salle de combat : un espace consacré aux affrontements et à la progression.",
+				"Vous pourrez y débloquer de nouvelles fonctionnalités, des compétences, des bonus d'XP et de Gold, ainsi que des agrandissements de votre inventaire.",
+				"\n- Bibliothèque : un lieu dédié à la découverte et à la consultation de différents ouvrages sur les univers et leurs secrets.",
+				"\n- Boulangerie d'X!Muffet : une boutique où vous pourrez découvrir et acheter différentes préparations culinaires.",
+				"\n- Maison de Jakey et Nyx : une habitation liée à ces deux personnages, qui pourra servir de lieu de rencontre ou accueillir des interactions spécifiques.",
+				"\n- Place du village : un espace central déjà présent dans l'épisode X, permettant de retrouver l'atmosphère de cet univers.",
+				"\n- Boutique d'objets pour la maison : un magasin proposant différents objets et éléments de décoration pour personnaliser votre habitation.",
+				"\n- Fleuriste : une boutique consacrée aux fleurs et aux décorations végétales.",
+				"\n- Loterie du village : une activité quotidienne permettant de récupérer trois cadeaux aléatoires par jour.",
+				"\n- Maison de Joe : une référence à AC, qui servira de lieu dédié à plusieurs fonctionnalités spéciales.",
+				"Vous pourrez notamment y accéder à un créateur de cartes, à un système de changement de musique et à l'importation de skins hors ligne.",
+				"À terme, il pourrait également être possible de partager certains contenus grâce à un système de codes."
+			]
+		}
+	]
+}
